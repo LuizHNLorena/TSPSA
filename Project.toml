@@ -1,0 +1,4 @@
+name = "TSPSA"
+uuid = "205df287-5c08-41ed-8157-a90c328ff635"
+authors = ["Luiz Henrique Nogueira Lorena <luiz-lorena@hotmail.com>"]
+version = "0.1.0"
